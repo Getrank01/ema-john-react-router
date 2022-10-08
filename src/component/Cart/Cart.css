@@ -1,0 +1,13 @@
+.cart{
+    background-color: blanchedalmond;
+    position: sticky;
+    top: 0;    
+    border-radius: 15px;
+    padding: 20px;
+    height: 100%;
+    margin-right: 50px;
+}
+
+.order{
+    text-align: center;
+}

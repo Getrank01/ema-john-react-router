@@ -12,7 +12,12 @@
    border-radius: 8px;
    margin-top: 20px;
    position: relative;
+   
 }
+
+/* .product  :hover{
+    transform: scale(1.06);
+} */
 
 
 .product-name{
@@ -46,6 +51,7 @@
 
 .btn-cart:hover{
     background-color:coral ;
+    
 }
 
 .btn-cart p{

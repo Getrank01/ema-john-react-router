@@ -11,3 +11,9 @@
    margin-left: 80px;
     
 }
+
+
+.products-container :hover{
+     transform :scale(1.01);
+}
+
